@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=UniServant
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ UniServant}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ UniServant}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=UniServant()
+comment2.params=vozidlo\ x
+comment2.target=void\ PosunVozidloO(IOvl\u00E1d\u00E1n\u00EDPolohy,\ int)
+numComments=3

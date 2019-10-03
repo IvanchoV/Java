@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IOvl\u00E1d\u00E1n\u00EDMotoru
+comment0.text=\r\n\ Instance\ interfejsu\ {@code\ IOvl\u00E1d\u00E1n\u00EDMotoru}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ IOvl\u00E1d\u00E1n\u00EDMotoru}\ interface\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=void\ nastartuj()
+comment2.params=
+comment2.target=void\ vypni()
+comment3.params=
+comment3.target=boolean\ getBezi()
+numComments=4

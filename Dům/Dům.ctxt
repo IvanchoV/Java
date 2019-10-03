@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=D\u016Fm
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ D\u016Fm}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ D\u016Fm}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=sv\u011Btla
+comment1.target=void\ setSv\u011Btla(D\u016Fm.Suter\u00E9n)
+comment2.params=m\u00EDstnosti
+comment2.target=void\ setM\u00EDstnosti(D\u016Fm.P\u0159\u00EDzem\u00ED)
+comment3.params=patra
+comment3.target=void\ setPatra(D\u016Fm.Poschod\u00ED)
+comment4.params=okna
+comment4.target=void\ setOkna(D\u016Fm.P\u016Fda)
+numComments=5

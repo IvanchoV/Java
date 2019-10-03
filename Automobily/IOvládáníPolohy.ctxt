@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IOvl\u00E1d\u00E1n\u00EDPolohy
+comment0.text=\r\n\ Instance\ interfejsu\ {@code\ IOvl\u00E1d\u00E1n\u00EDPolohy}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ IOvl\u00E1d\u00E1n\u00EDPolohy}\ interface\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=x
+comment1.target=void\ pohybuj(int)
+comment2.params=
+comment2.target=int\ getPozice()
+numComments=3

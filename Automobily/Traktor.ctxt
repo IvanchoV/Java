@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Traktor
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Traktor}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Traktor}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=Traktor()
+comment2.params=
+comment2.target=void\ nastartuj()
+comment3.params=
+comment3.target=void\ vypni()
+comment4.params=
+comment4.target=boolean\ getBezi()
+comment5.params=
+comment5.target=void\ zapniHydrauliku()
+comment6.params=
+comment6.target=void\ vypniHydrauliku()
+comment7.params=x
+comment7.target=void\ pohybuj(int)
+comment8.params=
+comment8.target=int\ getPozice()
+numComments=9

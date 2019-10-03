@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ServantProMotor
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ ServantProMotor}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ ServantProMotor}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=ServantProMotor()
+comment2.params=vozidlo
+comment2.target=void\ nastratuj(IOvl\u00E1d\u00E1n\u00EDMotoru)
+comment3.params=vozidlo
+comment3.target=void\ vypni(IOvl\u00E1d\u00E1n\u00EDMotoru)
+comment4.params=vozidlo
+comment4.target=void\ stavMotoru(IOvl\u00E1d\u00E1n\u00EDMotoru)
+numComments=5
