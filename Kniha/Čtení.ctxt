@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=\u010Cten\u00ED
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ \u010Cten\u00ED}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ \u010Cten\u00ED}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=fileName
+comment1.target=\u010Cten\u00ED(java.lang.String)
+comment2.params=
+comment2.target=void\ Vypi\u0161()
+comment3.params=slovo
+comment3.target=int\ pocetSlova(java.lang.String)
+numComments=4
