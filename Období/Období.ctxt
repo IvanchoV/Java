@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Obdob\u00ED
+comment0.text=\r\n\ Instance\ v\u00FD\u010Dtov\u00E9ho\ typu\ {@code\ Obdob\u00ED}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Obdob\u00ED}\ enum\ type\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=str\ pSD
+comment1.target=Obdob\u00ED(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getParametry()
+comment3.params=obdob\u00ED
+comment3.target=java.lang.String\ \u010Dinnosti(Obdob\u00ED)
+numComments=4
